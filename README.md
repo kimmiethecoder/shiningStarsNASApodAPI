@@ -1,7 +1,7 @@
 # shiningStarsNASApodAPI
 This is the website build for an image generator that uses a date input to connect users to the NASA astronomy picture of the day API. 
 
-Link to project:
+Link to project: https://shining-stars-api.netlify.app/
 
 ![sssNASAapi-image](https://user-images.githubusercontent.com/102115687/208172925-e07caa84-6d99-474c-b2ae-f4391e191a49.jpg)
 
